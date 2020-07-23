@@ -1,0 +1,56 @@
+#heading{
+	color: #ffb3d1;
+	font-size: 64px;
+	text-align: center;
+	font-family: small rounded, cursive;
+}
+
+#subtext{
+	color: white;
+	text-align: center;
+}
+
+.firstPage{
+	padding-top: 60px;
+	text-align: center;
+}
+
+body{
+	background: url("mainBackground.jpg");
+}
+
+button{
+	display: inline-block;
+	color: white;
+	border: solid 2px white;
+	background-color: transparent;
+	padding: 10px;
+	font-size: 24px;
+	margin-bottom: 30px;
+	margin: 25px;
+}
+
+button:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.social{
+	text-align: center;
+	font-size: 27px;
+}
+
+.fa {
+	padding: 15px;
+	color: white;  
+}
+
+.fa:hover,
+.fa:focus {
+  color: white;
+}
+
+
+
+
